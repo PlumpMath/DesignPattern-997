@@ -1,0 +1,5 @@
+c:\users\caoshan\documents\visual studio 2013\Projects\FacadePattern\VSMFacadePattern\bin\Debug\VSMFacadePattern.exe.config
+c:\users\caoshan\documents\visual studio 2013\Projects\FacadePattern\VSMFacadePattern\bin\Debug\VSMFacadePattern.exe
+c:\users\caoshan\documents\visual studio 2013\Projects\FacadePattern\VSMFacadePattern\bin\Debug\VSMFacadePattern.pdb
+c:\users\caoshan\documents\visual studio 2013\Projects\FacadePattern\VSMFacadePattern\obj\Debug\VSMFacadePattern.exe
+c:\users\caoshan\documents\visual studio 2013\Projects\FacadePattern\VSMFacadePattern\obj\Debug\VSMFacadePattern.pdb

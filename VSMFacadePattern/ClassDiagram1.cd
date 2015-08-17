@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VSMFacadePattern.Controllers.EngineController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAA=</HashCode>
+      <FileName>EngineController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VSMFacadePattern.Controllers.TachometerController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TachometerController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VSMFacadePattern.Controllers.TrachtionControlController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAACAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TrachtionControlController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VSMFacadePattern.Controllers.TransmissionController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>TransmissionController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VSMFacadePattern.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSMFacadePattern.VehicleFacade" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgCAAQAAgAAAABAAACAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>VehicleFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="VSMFacadePattern.Controllers.IEngineController" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAA=</HashCode>
+      <FileName>IEngineController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VSMFacadePattern.Controllers.ITractionController" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAACAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ITractionController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VSMFacadePattern.ITachometerController" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITachometerController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VSMFacadePattern.ITransmissionController" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>ITransmissionController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VSMFacadePattern.IVehicleFacade" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAAAABAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IVehicleFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
